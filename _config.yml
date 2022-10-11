@@ -44,11 +44,11 @@ social:
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/SamirPaulb      # change to your twitter homepage
+    - https://twitter.com/intent/follow?screen_name=SamirPaulb      # change to your twitter homepage
     - https://github.com/SamirPaul1       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/SamirPaulb
-    # - https://www.linkedin.com/in/SamirPaul
+    - https://www.facebook.com/SamirPaulb
+    - https://www.linkedin.com/in/SamirPaul
 
 google_site_verification:               # fill in to your verification string
 
@@ -92,7 +92,7 @@ comments:
   active:         'disqus'
   # The active options are as follows:
   disqus:
-    shortname:    'SamirPaul'
+    shortname:    SamirPaul
   # utterances settings › https://utteranc.es/
   utterances:
     repo:         # <gh-username>/<repo>
